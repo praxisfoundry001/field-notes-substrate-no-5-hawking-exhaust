@@ -1,0 +1,389 @@
+﻿Field Notes from the Substrate — Translations No. 5
+Event Horizon, Hawking Radiation, and the Shape of Valid Exhaust
+When Return Closes and Consequence Still Carries
+An event horizon is usually described as the boundary around a black hole beyond which return to the exterior universe is no longer possible. Once something crosses that boundary, it does not come back in the ordinary way.
+That familiar description is enough to begin, but it is not precise enough for the structural question this note asks.
+The sharper question is:
+What kind of return has closed?
+That distinction matters because not every outward effect is return. A trace is not return. A later consequence is not return. A transformed output is not return. To return, in the relevant sense, what crossed the boundary would have to come back to the exterior order as the same carried identity: the same answerability-bearing content, recognizable as itself.
+At the event horizon, that mode closes.
+This is the first claim of the note:
+The event horizon closes identity-preserving return.
+That claim is not yet about Hawking Radiation. It is about the horizon. It identifies the relevant structural feature of the boundary. The event horizon is not just a difficult place to escape from. It is the point at which ordinary return to the exterior order is no longer available.
+But closed return is not the same as erased consequence.
+That distinction carries the whole translation.
+If return closes and consequence simply disappears, then there is no exhaust problem. There is only loss. If return remains open, then the event-horizon condition has not been reached in the relevant sense. But if return closes while consequence remains something the exterior order must still account for, then the horizon becomes more than a line of no return.
+It becomes the site of the question this note follows:
+What can count as valid outward expression after return has closed?
+This is where Hawking Radiation enters the translation.
+Hawking Radiation is not introduced here as a decorative mystery around black holes. It is introduced because it appears at the exact site where the structural question becomes unavoidable. The horizon closes ordinary return. Yet black holes are not treated as consequence-free blanks. Something about the black-hole regime remains outward-facing, accountable, and physically legible.
+The question is how to name that shape without pretending that the original identity simply comes back.
+This note calls that problem the problem of valid exhaust.
+Core claim:
+After identity-preserving return has closed, valid outward expression cannot be the original identity returning, cannot be consequence-free output, and cannot be disappearance into an unearned outside. It must be consequence-bearing transformation. 
+Here, exhaust is not used in the mechanical sense of smoke leaving an engine. It means outward expression from a regime where ordinary return has closed, but consequence has not become nothing.
+Exhaust names an output-quality criterion. It does not name a particle, a mechanism, or a replacement for Hawking’s physical account.  
+The core claim is narrow:
+If outward expression from the event-horizon regime is valid, it cannot be the original identity returning, cannot be consequence-free noise, and cannot rely on disappearance into an unearned outside accounting domain. It must be consequence-bearing transformation.
+That is the shape this note translates.
+What this note is not:
+This note does not derive Hawking Radiation.
+It does not replace the standard physical mechanism.
+It does not solve the black-hole information problem.
+It does not claim that individual emitted quanta return the original infalling identity.
+It does not claim that thermal or stochastic emission is consequence-free.
+It does not claim full quantum-gravity closure.
+It translates one structural question: what kind of outward expression can count after identity-preserving return has closed? 
+1. Event Horizon: The Closure of Return
+The event horizon is the handle because it already has a clear role in physics. It marks the boundary beyond which ordinary return to the exterior is closed.
+For this note, the important word is ordinary.
+The event horizon does not mean that consequence disappears or that later accounting becomes meaningless. It means that a specific crossing mode is no longer available.
+The original carried identity does not return to the exterior order as itself.
+A rock that crosses the horizon does not later emerge as the same rock. A signal sent inward does not later return as the same exterior-readable signal. Matter that contributes to the black-hole regime does not simply reverse course and reappear as the same carried content. Whatever the exact physical story, the horizon closes identity-preserving return.
+That is enough to create the structural problem.
+A boundary that closes return but leaves no consequence would be simple erasure.
+A boundary that allows ordinary return would not be the event-horizon condition.
+The event horizon is sharper than either.
+It closes one mode of crossing while leaving the question of consequence still live.
+This is why the horizon is not merely a wall in this translation. A wall blocks or permits. The event horizon does something more severe. It changes the kind of outward expression that can count as valid.
+If something outward-facing remains associated with the black-hole regime, it cannot be understood as ordinary return. It must be understood under a different criterion.
+That is the first structural pressure:
+after the event horizon, valid outward expression cannot mean the same thing came back.
+This matters for Hawking Radiation immediately, because Hawking Radiation is often approached with the wrong return-demand. 
+If one asks whether each emitted quantum is the original infalling identity returning, the question has already gone wrong. It asks the radiation to behave like return at the very site where return has closed.
+The better question is not:
+Does the emitted quantum bring the original thing back?
+The better question is:
+Does the radiation process carry consequence at the correct scope?
+That shift will matter later. For now, the first point is enough:
+the event horizon closes return.
+2. Closed Return Is Not No Consequence
+The second point is just as important:
+closed return is not no consequence.
+Closed return means the original carried identity does not come back as itself. It does not mean the regime has become consequence-free. 
+A black hole does not become structurally interesting merely because something cannot escape. It becomes structurally interesting because the closure of return does not automatically erase the burden created by the regime.
+The exterior order cannot receive the original carried identity as itself. But it also cannot simply treat the black hole as though nothing consequence-bearing remains.
+This is the problem Hawking Radiation makes visible. 
+If the black-hole regime has outward-facing expression, that expression cannot be ordinary return. But if it carries consequence, it also cannot be treated as meaningless output.
+So the problem has three sides.
+First:
+the original identity does not return.
+Second:
+consequence is not thereby erased.
+Third:
+any outward expression must be judged by whether it carries consequence without pretending to be return.
+This is where Structural Flow names the black-hole condition as a Single Boundary Regime.
+That term should be heard narrowly.
+It does not introduce a new physics object. It does not replace the standard event horizon. It names the structural availability pattern: distributed interior legibility fails in the relevant way, while a horizon-scale boundary remains the surviving outward-facing boundary of the regime.
+In simpler terms:
+* identity-preserving return closes; 
+* horizon-facing accounting remains.
+That is why the event horizon can be treated as an outward-facing accounting surface.
+The exterior no longer gets the original identity back. But the exterior still faces the consequence of a black-hole regime. That consequence may appear through mass, horizon behavior, radiation, thermodynamic accounting, correlation, or global structure. The exact physical mechanism is not being derived in this section. The structural point is more basic:
+what cannot return may still remain accountable.
+This is the sentence the artifact turns on.
+If the original identity cannot return, then any valid outward expression must not be judged by identity-return. It must be judged by consequence-carry.
+That is the shift from return to exhaust.
+Return asks:
+Did the same thing come back?
+Exhaust asks:
+Does consequence carry outward after the same thing cannot come back?
+Hawking Radiation belongs in this second question.
+Its thermal or stochastic character does not decide the matter by itself. Randomness at the level of an emitted quantum does not automatically mean absence of consequence at the level of the radiation process. A distribution can carry consequence. An accounting relation can carry consequence. A whole radiation history can carry consequence. A local token does not have to return original identity in order for the process to carry a burden forward.
+That is why the event horizon changes the question.
+It does not ask the emitted quantum to be the lost thing returning.
+It asks whether the radiation process is consequence-bearing outward expression after return has closed.
+This note will name that criterion Hawking Exhaust.
+But the name should come after the problem is visible: 
+Return closes. Consequence remains. Valid outward expression must be transformed consequence, not the original identity coming back.
+That is the starting point for the rest of the artifact.
+3. The Shape of Valid Exhaust
+Once return has closed, outward expression has to be judged differently.
+Before the event horizon, one can still imagine ordinary return: the same object, signal, or carried content comes back to the exterior order as itself. After the event horizon, that picture is no longer available. The original identity does not simply reverse course and reappear.
+But that does not mean every outward-facing effect is meaningless.
+The event-horizon question is therefore not:
+Did the same thing come back?
+It is:
+What kind of outward expression can still count after the same thing cannot come back?
+That is the problem of valid exhaust.
+Valid exhaust has to pass three exclusions: Return, Noise, and Drain.
+These are not stylistic categories. They are failure corridors. 
+Those words need to be held carefully.
+Return means the original carried identity comes back as itself. The same answerability-bearing content crosses back into the exterior order and remains recognizable as the same carried content. That is precisely what the event horizon closes. If the original identity returns as itself, then the event-horizon condition has not done the work this note is analyzing.
+So valid exhaust cannot be Return. The rock does not come back as the same rock. The inward signal does not come back as the same signal. The original carried identity does not reappear as itself.
+That does not weaken the exhaust criterion. It defines the problem: exhaust is needed only because Return is closed.
+The second exclusion is Noise.
+Noise does not mean randomness. It does not mean thermal form. It does not mean that an individual emission is unpredictable. Noise means something narrower and more structural:
+output that carries no consequence at the tested scope.
+If an outward-facing process has no answerability-bearing relation to the black-hole regime, then it does not answer the burden created by closed return. It may be an event. It may be an appearance. It may even be measurable. But if it carries no consequence of the regime, it is not valid exhaust.
+So valid exhaust cannot be Noise.
+That distinction matters because Hawking Radiation is often described in thermal or stochastic language. If randomness were the same thing as Noise, the translation would stop there. But randomness at token level is not the same as absence of consequence at process level.
+A single emitted quantum does not have to carry the original identity back.
+A radiation process may still carry consequence through its distribution, accounting relation, correlation structure, or full history.
+So the Noise question is not:
+Can I predict this individual token as a returned identity?
+The Noise question is:
+Does the outward process carry consequence at any valid scope?
+If it does, it is not Noise in the relevant sense.
+The third exclusion is Drain.
+Drain is not a rejection of wider accounting domains in principle. It is a rejection of using an unearned outside to make the burden vanish.
+This is not a claim that no wider accounting domain could ever be derived. It is a discipline on the present argument. If a proposed explanation says the consequence goes somewhere else, then that somewhere else must be earned. The outside domain, the boundary between domains, and the cross-domain accounting relation must be shown.
+Otherwise, “somewhere else” functions as escape language.
+It removes the burden without accounting for it.
+So valid exhaust cannot be underived Drain.
+This exclusion protects the artifact from a false solution. It prevents the argument from saying, in effect:
+* the consequence does not return;
+* it does not carry outward;
+* but it is somehow gone into an unnamed elsewhere.
+That is not an answer. It is an accounting failure.
+If a wider domain is later derived, then the case changes. The output would no longer be Drain in the relevant sense. It would become cross-domain consequence-bearing transformation inside a wider accounting regime.
+But until that domain is earned, valid exhaust must remain accountable within the domain being tested.
+So the three exclusions are now clear.
+Valid exhaust is not the original identity returning.
+Valid exhaust is not consequence-free output.
+Valid exhaust is not disappearance into an unearned outside.
+That leaves one live corridor:
+consequence-bearing transformation.
+This is the central criterion.
+The original identity does not return as itself, but the consequence of the regime carries outward in transformed form.
+This is where the term Hawking Exhaust enters.
+Hawking Exhaust does not name a particle.
+It does not rename Hawking Radiation.
+It does not claim to derive Hawking’s mechanism.
+It does not mean that the original infalling identity has come back.
+Hawking Exhaust names the valid-output criterion for the event-horizon regime:
+after identity-preserving return has closed, any valid outward expression must carry consequence by transformation rather than by return, noise, or underived drain.
+That is all the term needs to do.
+It is a criterion, not a mechanism.
+It says what kind of output can count, not how the full physical process is produced. That distinction is load-bearing.
+In compressed form:
+not Return, not Noise, not underived Drain — consequence-bearing transformation.
+This criterion also explains why the event horizon can be read as an answerability ratchet.
+The event horizon removes an option. The original identity cannot return. At first, that looks like less structure. It looks like a loss of access, a loss of recoverability, a loss of ordinary exchange.
+But once consequence remains accountable, the loss of Return narrows the valid-output corridor. The closure eliminates false answers. It prevents the radiation process from being misread as the same thing coming back. It prevents meaningless output from being treated as adequate. It prevents disappearance into an unearned outside from being accepted as accounting.
+The closure therefore strengthens the criterion.
+Return closes.
+Consequence remains.
+Valid output narrows.
+That is the answerability ratchet.
+The event horizon does not merely say:
+nothing returns.
+It says something sharper:
+if anything outward-facing counts as valid expression from this regime, it must carry consequence without pretending identity returned.
+This is the shape of valid exhaust.
+It lets the artifact approach Hawking Radiation without asking the wrong question. The wrong question is whether the individual emitted quantum is the original thing coming back. That would collapse the test into Return, precisely where Return has closed.
+The right question is whether the radiation process carries consequence at the correct scope.
+If it carries no consequence, it fails as Noise.
+If it requires disappearance into an unearned outside, it fails as Drain.
+If it pretends to be the original identity returning, it fails as Return.
+But if it carries consequence without returning identity, it occupies the live corridor.
+That corridor is consequence-bearing transformation.
+That is the Hawking Exhaust criterion.
+4. Why Randomness Is Not Noise
+Hawking Radiation can look, at first glance, like the wrong kind of candidate.
+It is not the original thing returning.
+It is not a readable package labeled with the identity of what fell in.
+It is not, token by token, a simple reversal of the crossing.
+That is exactly why it belongs in the test.
+The event horizon has already closed identity-preserving return. So if Hawking Radiation were required to return the original identity token by token, it would fail by being asked to do the wrong job. It would be judged by the standard of Return at the very boundary where Return has closed.
+The emitted quantum does not have to be the thing coming back.
+The question is whether the radiation process carries consequence.
+That requires a scope shift.
+At token scope, the question is too narrow:
+Does this individual emitted quantum carry the original identity back?
+That is the wrong demand.
+At process scope, the question becomes:
+Does the radiation process carry consequence in a lawful way?
+That is the right demand.
+This distinction is the scope ratchet.
+A failure at the wrong scope does not always weaken the argument. Sometimes it identifies the scope at which the argument must be carried.
+Here, token-level identity fails. The individual emitted quantum does not return the original carried identity. But that failure is not a defeat. It prevents a false reading. It tells us not to look for Return where Return has closed.
+The analysis must move upward.
+At distributional scope, the question is whether the radiation pattern is shaped by the black-hole regime rather than being arbitrary output. If the distribution belongs to the horizon / black-hole condition, then the output is not simply consequence-free noise.
+At accounting scope, the question is stronger. Does the radiation process participate in the black hole’s accounting? Does it correspond to a change in the regime rather than float free of it? Does the black-hole condition answer to the outward process?
+At correlational or global scope, the question becomes deeper still. Does the full radiation history carry consequence through relations not visible in a single token or local sample?
+The present note does not need to settle every deeper global question in order to state the scoped criterion. It only needs to distinguish randomness from Noise.
+Randomness is about predictability or event-form.
+Noise, in this translation, is about consequence.
+Those are not the same.
+A stochastic output can still be structured.
+A thermal distribution can still be regime-shaped.
+A process can look random token by token while carrying consequence through its distribution, accounting relation, correlation structure, or total history.
+So the relevant question is not:
+Is each individual emission a deterministic returned identity?
+The relevant question is:
+Does the radiation process carry consequence at a valid scope?
+If yes, it is not Noise.
+This distinction is compatible with the underlying non-guarantee of the universe. Chance does not mean nothing can carry consequence. It means outcome-form is not guaranteed in advance. A particular event may not be dictated, but a process can still be constrained. A token can be unpredictable while the process remains lawful.
+That is why randomness at the token level does not disqualify Hawking Radiation from the valid-exhaust test.
+It may be exactly the kind of outward expression one should expect after Return has closed:
+* not the thing coming back;
+* not meaningless output;
+* not disappearance;
+* but transformed consequence carried by a process.
+This is the cleanest way to state the scope ratchet:
+The quantum does not carry the thing back; the radiation process carries the burden forward.
+This is the note’s shortest usable translation. 
+That sentence blocks two errors at once.
+It blocks the Return error: asking the emitted token to be the original identity.
+It blocks the Noise error: treating token-level randomness as proof that no consequence carries.
+The correct carrier is not the individual token as returned identity.
+The correct carrier is the radiation process at the scope where consequence is lawfully carried.
+This also explains why the word “exhaust” is useful.
+Exhaust does not mean “the original contents came back.”
+It means the regime expresses consequence outward after ordinary return has closed.
+A car’s exhaust is not the gasoline returning as gasoline. A star’s radiation is not the core returning as core. In the same structural sense, Hawking Exhaust does not mean the black hole gives back the original identity. It means that outward expression, if valid, must carry consequence in transformed form.
+That is why Hawking Radiation can be tested as a known-facing candidate.
+It is outward-facing.
+It is not identity-preserving return.
+It is not automatically Noise merely because it is thermal or stochastic.
+It belongs to the black-hole / horizon regime rather than floating as unrelated output.
+Those features place it in the correct corridor for the next test.
+The question is no longer whether Hawking Radiation returns what fell in.
+The question is whether Hawking Radiation fails where Hawking Exhaust fails.
+If it collapses into Return, it fails.
+If it carries no consequence at any relevant scope, it fails.
+If it requires disappearance into an unearned outside, it fails.
+If the process cannot remain aligned with the black-hole regime, it fails.
+If the accounting relation cannot hold, it fails.
+If it only resembles consequence without carrying it, it fails.
+If the criterion demands identity-return and blocks transformation, it fails.
+Those are failure questions.
+They are the right questions because the object is a criterion, not a mechanism.
+Hawking Exhaust does not claim to tell the whole story of Hawking Radiation. It names the output-quality corridor that Hawking Radiation must satisfy if it is to count as valid outward expression from an event-horizon regime.
+The corridor is now visible.
+Return is closed.
+Noise is consequence-free.
+Drain is unearned disappearance.
+Valid exhaust is consequence-bearing transformation.
+Hawking Radiation can satisfy that criterion at the scope tested here only if its apparent randomness is read at the right scope.
+Not token identity.
+Scoped consequence.
+5. The Failure Test
+The translation is now ready for the failure side.
+Hawking Exhaust is not tested by resemblance. It is tested by what would make it fail.
+A candidate does not pass because it sounds like consequence-bearing transformation. It passes only if it does not fail in the places Hawking Exhaust fails. 
+The question is not:
+Does Hawking Radiation sound like the phrase “consequence-bearing transformation”?
+The question is sharper:
+Does Hawking Radiation fail where Hawking Exhaust fails?
+Hawking Exhaust fails if candidate outward expression from the event-horizon regime collapses into one of the false corridors.
+It fails as Return if the output is treated as the original carried identity coming back as itself.
+It fails as Noise if the output carries no consequence of the black-hole regime at any relevant scope.
+It fails as Drain if the burden is discharged into an outside accounting domain that has not been derived.
+It fails as Dissolution if consequence does not survive into the outward process at all.
+It fails as Shear if the radiation and black-hole accounting relation cannot be jointly held.  
+It fails as Drift if the outward process loses alignment with the originating black-hole / horizon burden.
+It fails as Echo if the process only resembles consequence-bearing expression without actually carrying consequence.
+It fails as Lock if the criterion over-preserves identity and demands Return after Return has closed.
+Those are the failure locations.
+They matter because they make the criterion narrow enough to test.
+A phrase like “outward expression” could be too loose. Almost anything outward-facing might qualify. Hawking Exhaust is narrower. It does not accept every outward effect. It accepts only outward expression that carries consequence without pretending the original identity returned and without escaping the accounting burden.
+Now test Hawking Radiation against that failure shape.
+It does not fail as Return.
+Hawking Radiation is not the original infalling identity coming back as itself. It does not ask the exterior order to receive the same rock, signal, field configuration, or carried content as ordinary return. That is exactly why it belongs in the transformation corridor rather than the Return corridor.
+It is not disqualified as Noise merely because it is thermal or stochastic.
+Noise is not randomness. Noise is absence of consequence-carry. If a radiation process is shaped by the black-hole regime, participates in black-hole accounting, or carries consequence through distribution, correlation, or full history, then it is not Noise at the relevant scope. The emitted token does not have to be the original identity returning in order for the process to carry consequence.
+It does not require underived Drain at the scope tested here.
+The criterion does not need to say that consequence disappears into an unnamed outside. It tests Hawking Radiation as outward-facing expression of the black-hole / event-horizon regime. If a wider accounting domain is later derived, that would be a further translation problem. It is not needed to state this scoped relation.
+It avoids Dissolution if consequence survives at process scope.
+The radiation process must carry something of the regime forward. If nothing carries, the candidate fails. But if consequence is present in distributional, accounting, correlational, or global form, then the process has not dissolved into consequence-free output.
+It avoids Shear if the radiation and black-hole accounting relation can be jointly held.
+This is a scope-locked claim. The artifact is not deriving the full mechanism. It is testing whether the output-quality relation can hold: black-hole regime here, outward radiation there, one consequence-bearing accounting relation between them. At that level, the relation is holdable.
+It avoids Drift if the radiation remains aligned with the event-horizon burden.
+Hawking Radiation is not generic outward radiation attached after the fact. It is the known-facing candidate associated with black holes. That alignment matters. The output belongs to the same problem that created the criterion: outward expression after return closes at the horizon.
+It avoids Echo if the consequence-carry is real rather than merely verbal.
+This is a real failure risk for any translation artifact. A relation that only sounds right is not enough. The radiation process must actually carry consequence at the tested scope. If it does not, the translation fails. But if distributional or accounting consequence is present, then the relation is not mere echo.
+It avoids Lock because it does not demand identity-preserving return.
+This is decisive. A locked criterion would insist that the emitted quantum must be the original identity coming back. That would block transformation and force the output into a corridor the horizon has already closed. Hawking Radiation does not need to do that. It can be tested as transformed consequence rather than returned identity.
+The failure result is therefore scoped:
+At output-quality / accounting-constraint scope, Hawking Radiation does not fail where Hawking Exhaust fails.
+That is a license for translation, not a claim of complete physical derivation. 
+That sentence is the license point.
+It does not say Hawking Exhaust derives the full mechanism of Hawking Radiation.
+It does not say every open question in black-hole physics has been settled.
+It says the known-facing phenomenon occupies the structural corridor identified by the criterion.
+The event horizon closes Return.
+Hawking Radiation is not Return.
+The radiation process is not disqualified as Noise merely because individual emissions are stochastic.
+The accounting burden is not discharged by underived Drain.
+The process can be read as consequence-bearing transformation at the scope tested here.
+That is enough for the translation this note is making.
+6. Licensed Translation
+The licensed relation is scoped, but it is not vague.
+Hawking Exhaust is the Structural Flow criterion:
+valid outward expression after identity-preserving return closes must be consequence-bearing transformation.
+Hawking Radiation is the known-facing physical candidate:
+outward-facing radiation associated with the black-hole / event-horizon regime.
+The relation licensed here is:
+At output-quality / accounting-constraint scope, Hawking Radiation satisfies the Hawking Exhaust criterion.
+That is the cleanest statement of the artifact.
+The two terms should not be collapsed.
+Hawking Exhaust names the criterion.
+Hawking Radiation names the known-facing phenomenon.
+The relation between them is licensed because the failure-side test holds at the stated scope.
+Hawking Radiation is not the thing coming back.
+It is not consequence-free output merely because it is stochastic at token level.
+It is not disappearance into an unearned outside.
+It is outward-facing transformed consequence associated with the regime where ordinary return has closed.
+That is why the event horizon is the correct handle.
+The event horizon is not just the place where the object becomes strange. It is the place where the output question changes. Before the horizon, return remains thinkable. At the horizon, return closes. After that closure, the relevant question is no longer whether the same identity came back.
+The relevant question is whether consequence carries.
+This reframes the Hawking Radiation problem in structural terms.
+Do not ask the emitted quantum to be the original thing returning.
+Ask whether the radiation process carries the burden forward.
+That is the core scope shift.
+A token may fail to preserve identity.
+A process may still carry consequence.
+A thermal pattern may still be lawfully shaped.
+A stochastic emission history may still belong to accounting.
+So the final translation is not:
+the black hole gives back what fell in.
+The translation is:
+the event horizon closes return, and Hawking Radiation is the known-facing case in which consequence may carry without return.
+That is the shape of valid exhaust.
+Return closes.
+Consequence remains.
+The output cannot be the same identity coming back.
+The output cannot be consequence-free noise.
+The output cannot be unearned disappearance.
+The output must be transformed consequence.
+At output-quality / accounting-constraint scope, Hawking Radiation occupies that corridor.
+Final compression:
+The event horizon closes return.
+Closed return is not erased consequence.
+The quantum does not carry the thing back.
+The radiation process carries the burden forward.
+That is the Hawking Exhaust criterion.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Declaration of Generative AI and AI-Assisted Technologies
+During the preparation and revision of this manuscript, the author used generative AI tools to assist with drafting support, language refinement, structural editing, title development, technical organization, and clarity. All substantive arguments, theoretical claims, scope decisions, structural translations, and final editorial judgments are the author’s own. The author reviewed and approved the final manuscript and takes full responsibility for its content.
